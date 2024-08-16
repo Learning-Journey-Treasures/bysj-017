@@ -22,3 +22,9 @@
 - 启动项目，运行 http://localhost:8080/apartment 管理员账号/密码：admin/admin 
 
 - 学生账号/密码：S011/123456   宿管账号/密码：test02/123456
+![0](https://github.com/Learning-Journey-Treasures/bysj-017/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-017/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-017/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-017/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-017/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-017/blob/master/6.png)
